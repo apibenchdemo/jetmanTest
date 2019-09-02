@@ -1,0 +1,3 @@
+{"authName":"authWithoutUserPass","type":"basicAuthTab","data":{},"_id":"QyrJ6eBDz8wSNwFl"}
+{"authName":"authWithBearer","type":"bearerAuthTab","data":{"Token":"accessToken"},"_id":"fxxaXramFB1nQNc0"}
+{"authName":"authWithUserPass","type":"basicAuthTab","data":{},"_id":"xfye1dxmTfC2GMjc"}
