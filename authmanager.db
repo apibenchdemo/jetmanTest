@@ -1,3 +1,5 @@
+{"authName":"auth_bearer","type":"bearerAuthTab","data":{"Token":"asdfg"},"_id":"1LxIei2gbgVGHqX9","authType":"bearer","authData":{"token":"asdfghjkl"}}
 {"authName":"authWithoutUserPass","type":"basicAuthTab","data":{},"_id":"QyrJ6eBDz8wSNwFl"}
+{"authName":"myauth","type":"basicAuthTab","data":{"Username":"123","Password":"123"},"_id":"RXNF8LS6y0FlvnxL"}
 {"authName":"authWithBearer","type":"bearerAuthTab","data":{"Token":"accessToken"},"_id":"fxxaXramFB1nQNc0"}
 {"authName":"authWithUserPass","type":"basicAuthTab","data":{},"_id":"xfye1dxmTfC2GMjc"}
